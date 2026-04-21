@@ -22,5 +22,5 @@ streamlit==1.28.0
 
 # أدوات عملية / Utilities
 requests==2.31.0
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 tqdm==4.66.1

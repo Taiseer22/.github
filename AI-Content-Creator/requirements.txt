@@ -3,7 +3,7 @@
 
 # معالجة الصور والفيديو / Image and Video Processing
 opencv-python==4.8.1.78
-Pillow==10.0.0
+Pillow==12.2.0
 moviepy==1.0.3
 
 # الذكاء الاصطناعي / AI and Machine Learning
